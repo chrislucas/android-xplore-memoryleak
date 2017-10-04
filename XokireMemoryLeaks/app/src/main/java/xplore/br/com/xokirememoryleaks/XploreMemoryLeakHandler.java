@@ -9,12 +9,12 @@ import android.util.Log;
 import xplore.br.com.xokirememoryleaks.handler.MyHandler;
 
 public class XploreMemoryLeakHandler extends AppCompatActivity {
-
+    // Memory Leak
     private final Handler handler = new MyHandler() {
         @Override
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
-            Log.e("HANDLER", "message");
+            Log.v("HANDLER", "message");
         }
     };
 
@@ -25,8 +25,16 @@ public class XploreMemoryLeakHandler extends AppCompatActivity {
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {
-                Log.e("HANDLER", "postDelayed");
+                Log.v("HANDLER", "postDelayed");
+                Message message = new Message();
+                handler.sendMessage(message);
             }
-        }, 1000 * 60 * 2);
+        }, 1000 * 60);
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Log.i(XploreMemoryLeakHandler.this.getClass().getName(), "Destroy");
     }
 }
