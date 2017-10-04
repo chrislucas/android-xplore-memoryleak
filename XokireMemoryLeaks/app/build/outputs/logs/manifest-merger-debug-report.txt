@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\2a15dd2695098dd6b7d22638358beb3b1dde7774\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\c8e63aeea9ae20f988b2d0335e9c1e9f2076d13c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\faac722acc55a225a6bc13ee53b264be12d95f3d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\540961fb93671512665b04ea99878048467f1f64\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\08304ba341d8d489352c3b0b193d8b2d95c918f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\db843a991d60ce0b2a78bcbab2f6534cc9fbed83\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\21f22810bc225202dcfbf83682609025bffe14c4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\84e29efa314d2c05268218486e7ac7affecdc5bf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\77f43ee6554415b40a8221899401cf5d53f0b960\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\r028367\.android\build-cache\348e68c0bb973378a488919401d5102e7d2501aa\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:11:9-40
+activity#xplore.br.com.xokirememoryleaks.XploreMemoryLeakHandler
+ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:12:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\2a15dd2695098dd6b7d22638358beb3b1dde7774\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\c8e63aeea9ae20f988b2d0335e9c1e9f2076d13c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\faac722acc55a225a6bc13ee53b264be12d95f3d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\540961fb93671512665b04ea99878048467f1f64\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\08304ba341d8d489352c3b0b193d8b2d95c918f0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\db843a991d60ce0b2a78bcbab2f6534cc9fbed83\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\21f22810bc225202dcfbf83682609025bffe14c4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\84e29efa314d2c05268218486e7ac7affecdc5bf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\77f43ee6554415b40a8221899401cf5d53f0b960\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\r028367\.android\build-cache\348e68c0bb973378a488919401d5102e7d2501aa\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\2a15dd2695098dd6b7d22638358beb3b1dde7774\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\r028367\Documents\repositories\github\android-xplore-memoryleak\XokireMemoryLeaks\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\2a15dd2695098dd6b7d22638358beb3b1dde7774\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\c8e63aeea9ae20f988b2d0335e9c1e9f2076d13c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\faac722acc55a225a6bc13ee53b264be12d95f3d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\540961fb93671512665b04ea99878048467f1f64\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\08304ba341d8d489352c3b0b193d8b2d95c918f0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\db843a991d60ce0b2a78bcbab2f6534cc9fbed83\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\21f22810bc225202dcfbf83682609025bffe14c4\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\84e29efa314d2c05268218486e7ac7affecdc5bf\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\77f43ee6554415b40a8221899401cf5d53f0b960\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\2a15dd2695098dd6b7d22638358beb3b1dde7774\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\r028367\.android\build-cache\2a15dd2695098dd6b7d22638358beb3b1dde7774\output\AndroidManifest.xml:26:9-47
