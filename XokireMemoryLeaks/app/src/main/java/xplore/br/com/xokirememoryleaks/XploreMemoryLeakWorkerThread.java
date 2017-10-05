@@ -14,6 +14,9 @@ import xplore.br.com.xokirememoryleaks.thread.ImageDownloader;
 public class XploreMemoryLeakWorkerThread extends AppCompatActivity {
     // Solver memory leak
     // transformar esse atributo em estatico
+    /**
+     *
+     * */
     private static Thread worker = new Thread() {
         @Override
         public synchronized void start() {

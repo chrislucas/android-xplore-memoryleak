@@ -1,6 +1,9 @@
 Dicas importantes de como evitar memory leak
 https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570
 
+Sobre gerenciamento de memoria
+https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83
+
 
 https://medium.com/@ankit.sinhal/avoid-memory-leaks-reference-afd0e9dbb213
 https://android-developers.googleblog.com/2009/01/avoiding-memory-leaks.html
