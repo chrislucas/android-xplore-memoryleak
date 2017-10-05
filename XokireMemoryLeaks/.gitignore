@@ -9,3 +9,5 @@
 .externalNativeBuild
 /.idea/
 /.gradle/
+app/libs/
+app/src/main/res/drawable/
