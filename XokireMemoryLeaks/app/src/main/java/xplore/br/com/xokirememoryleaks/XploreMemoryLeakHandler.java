@@ -35,6 +35,6 @@ public class XploreMemoryLeakHandler extends AppCompatActivity {
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        Log.i(XploreMemoryLeakHandler.this.getClass().getName(), "Destroy");
+        Log.i(this.getClass().getCanonicalName(), "Destroy");
     }
 }

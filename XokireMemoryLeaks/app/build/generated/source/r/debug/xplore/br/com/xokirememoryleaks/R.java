@@ -2452,26 +2452,28 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f040018;
         public static final int abc_search_view=0x7f040019;
         public static final int abc_select_dialog_material=0x7f04001a;
-        public static final int activity_xplorer_ml_handler=0x7f04001b;
-        public static final int notification_action=0x7f04001c;
-        public static final int notification_action_tombstone=0x7f04001d;
-        public static final int notification_media_action=0x7f04001e;
-        public static final int notification_media_cancel_action=0x7f04001f;
-        public static final int notification_template_big_media=0x7f040020;
-        public static final int notification_template_big_media_custom=0x7f040021;
-        public static final int notification_template_big_media_narrow=0x7f040022;
-        public static final int notification_template_big_media_narrow_custom=0x7f040023;
-        public static final int notification_template_custom_big=0x7f040024;
-        public static final int notification_template_icon_group=0x7f040025;
-        public static final int notification_template_lines_media=0x7f040026;
-        public static final int notification_template_media=0x7f040027;
-        public static final int notification_template_media_custom=0x7f040028;
-        public static final int notification_template_part_chronometer=0x7f040029;
-        public static final int notification_template_part_time=0x7f04002a;
-        public static final int select_dialog_item_material=0x7f04002b;
-        public static final int select_dialog_multichoice_material=0x7f04002c;
-        public static final int select_dialog_singlechoice_material=0x7f04002d;
-        public static final int support_simple_spinner_dropdown_item=0x7f04002e;
+        public static final int activity_xplore_memory_leak_async_task=0x7f04001b;
+        public static final int activity_xplore_memory_leak_worker_thread=0x7f04001c;
+        public static final int activity_xplorer_ml_handler=0x7f04001d;
+        public static final int notification_action=0x7f04001e;
+        public static final int notification_action_tombstone=0x7f04001f;
+        public static final int notification_media_action=0x7f040020;
+        public static final int notification_media_cancel_action=0x7f040021;
+        public static final int notification_template_big_media=0x7f040022;
+        public static final int notification_template_big_media_custom=0x7f040023;
+        public static final int notification_template_big_media_narrow=0x7f040024;
+        public static final int notification_template_big_media_narrow_custom=0x7f040025;
+        public static final int notification_template_custom_big=0x7f040026;
+        public static final int notification_template_icon_group=0x7f040027;
+        public static final int notification_template_lines_media=0x7f040028;
+        public static final int notification_template_media=0x7f040029;
+        public static final int notification_template_media_custom=0x7f04002a;
+        public static final int notification_template_part_chronometer=0x7f04002b;
+        public static final int notification_template_part_time=0x7f04002c;
+        public static final int select_dialog_item_material=0x7f04002d;
+        public static final int select_dialog_multichoice_material=0x7f04002e;
+        public static final int select_dialog_singlechoice_material=0x7f04002f;
+        public static final int support_simple_spinner_dropdown_item=0x7f040030;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -2512,6 +2514,9 @@ containing a value of this type.
         public static final int app_name=0x7f060021;
         public static final int search_menu_title=0x7f060013;
         public static final int status_bar_notification_info_overflow=0x7f060014;
+        public static final int xplore_asynctask_memory_leak=0x7f060022;
+        public static final int xplore_handler_memory_leak=0x7f060023;
+        public static final int xplore_worker_thread_memory_leak=0x7f060024;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f08009f;

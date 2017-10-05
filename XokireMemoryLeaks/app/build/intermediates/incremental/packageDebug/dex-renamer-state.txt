@@ -1,4 +1,4 @@
-#Wed Oct 04 15:56:14 BRT 2017
+#Thu Oct 05 10:31:16 BRT 2017
 base.0=C\:\\Users\\r028367\\Documents\\repositories\\github\\android-xplore-memoryleak\\XokireMemoryLeaks\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\r028367\\Documents\\repositories\\github\\android-xplore-memoryleak\\XokireMemoryLeaks\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

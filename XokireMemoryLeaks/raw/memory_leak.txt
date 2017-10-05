@@ -1,0 +1,24 @@
+Dicas importantes de como evitar memory leak
+https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570
+
+
+https://medium.com/@ankit.sinhal/avoid-memory-leaks-reference-afd0e9dbb213
+https://android-developers.googleblog.com/2009/01/avoiding-memory-leaks.html
+https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570
+http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html
+https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8
+
+
+Projeto que aponta varios pontos que podem gerarm memory leak
+https://github.com/frank-tan/SinsOfMemoryLeaks
+
+Library para testar memory leaks
+https://github.com/square/leakcanary
+
+Pesquisar o que acontece com as referencias static final quando o GC roda
+
+https://pt.stackoverflow.com/questions/47963/diferen%C3%A7a-entre-private-static-final-e-private-final-para-o-uso-da-imutabilidade
+https://stackoverflow.com/questions/18568543/does-a-static-final-object-ever-get-deleted-by-garbage-collector
+https://stackoverflow.com/questions/306862/does-using-final-for-variables-in-java-improve-garbage-collection
+https://stackoverflow.com/questions/453023/are-static-fields-open-for-garbage-collection
+https://stackoverflow.com/questions/1005461/when-does-garbage-collection-happen-for-a-class-with-static-data

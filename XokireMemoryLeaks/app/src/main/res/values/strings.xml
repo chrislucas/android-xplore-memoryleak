@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">XokireMemoryLeaks</string>
+    <string name="xplore_handler_memory_leak">Explorando Memory Leak com Handler</string>
+    <string name="xplore_worker_thread_memory_leak">Explorando Memory Leak com Thread</string>
+    <string name="xplore_asynctask_memory_leak">Explorando Memory Leak com AsyncTask</string>
 </resources>
