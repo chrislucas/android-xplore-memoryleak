@@ -13,17 +13,18 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".XploreMemoryLeakHandler"
-            android:label="@string/xplore_handler_memory_leak"></activity>
+            android:label="@string/xplore_handler_memory_leak">
+        </activity>
         <activity
             android:name=".XploreMemoryLeakWorkerThread"
             android:label="@string/xplore_worker_thread_memory_leak">
-        </activity>
-        <activity android:name=".XploreMemoryLeakAsyncTask"
-            android:label="@string/xplore_asynctask_memory_leak">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".XploreMemoryLeakAsyncTask"
+            android:label="@string/xplore_asynctask_memory_leak">
         </activity>
     </application>
 

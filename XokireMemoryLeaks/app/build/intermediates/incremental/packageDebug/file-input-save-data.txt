@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 05 10:31:17 BRT 2017
+#Thu Oct 05 11:21:34 BRT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\r028367\\Documents\\repositories\\github\\android-xplore-memoryleak\\XokireMemoryLeaks\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\support_simple_spinner_dropdown_item.xml
