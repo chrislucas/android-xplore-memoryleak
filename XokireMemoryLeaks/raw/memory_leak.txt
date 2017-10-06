@@ -25,3 +25,7 @@ https://stackoverflow.com/questions/18568543/does-a-static-final-object-ever-get
 https://stackoverflow.com/questions/306862/does-using-final-for-variables-in-java-improve-garbage-collection
 https://stackoverflow.com/questions/453023/are-static-fields-open-for-garbage-collection
 https://stackoverflow.com/questions/1005461/when-does-garbage-collection-happen-for-a-class-with-static-data
+
+
+Estudar essa implementacao de Handler
+https://github.com/badoo/android-weak-handler

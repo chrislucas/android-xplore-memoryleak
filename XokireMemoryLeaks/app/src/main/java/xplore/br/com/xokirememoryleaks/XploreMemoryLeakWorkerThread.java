@@ -42,6 +42,7 @@ public class XploreMemoryLeakWorkerThread extends AppCompatActivity {
     // inner class static nao tem sua referencia vinculada a Activity
     // assim a activity pode seguir seu ciclo de vida e a referencia
     // para a Thread nao vai vazar
+    // interessante que o desempenho do App é melhor
     private static class MyThreadNonMemoryLeak extends Thread {
         boolean isRunning = true;
         @Override
